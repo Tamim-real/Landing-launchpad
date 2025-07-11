@@ -78,3 +78,112 @@ nav{
 .wc-mini{
     border-radius: 50px;
 }
+
+.productive-section{
+    margin: 0 100px 0 100px;
+    padding: 50px 80px;
+    background-color: #e6e8ff;
+    place-items: center;
+    border-radius: 24px;
+    
+    
+}
+
+.heading{
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;
+    padding-top: 30px;
+    margin-bottom: 40px;
+}
+
+.users{
+    display: flex;
+    justify-content: center;
+    font-family: "Inter", sans-serif;
+    gap: 158px;
+}
+
+.users h2{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+}
+
+.users p{
+    font-size: 20px;
+    color: #8987A1;
+    text-align: center;
+}
+
+.feedback-section{
+    margin-top: 100px;
+}
+
+.title{
+    font-size: 42px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.feed-cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.feedback-content h2{
+    margin-top: 10px;
+    margin-bottom: 7px;
+}
+
+.feebacks{
+    background-color: white;
+    border-radius: 14px;
+    padding: 24px;
+}
+
+.comment{
+    margin: 15px 0;
+}
+
+.avatar{
+    display: flex;
+    gap: 7px;
+    margin-top: 13px;
+}
+
+.man{
+    height: 41px;
+    width: 40px;
+
+}
+.feedback-content h3{
+    color: #8987A1;
+}
+
+.extra{
+    text-align: center;
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 14px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.title-2{
+    font-size: 50px;
+    font-weight: bold;
+    padding: 70px 0 20px 0;
+}
+
+.extra p{
+    color: #8987A1;
+    padding: 15px 0;
+}
+
+.wc-big{
+    border-radius: 48px;
+    
+    
+}
