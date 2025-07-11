@@ -143,6 +143,7 @@ nav{
     margin-bottom: 7px;
 }
 
+
 .feebacks{
     background-color: white;
     border-radius: 14px;
@@ -166,6 +167,11 @@ nav{
 }
 .feedback-content h3{
     color: #8987A1;
+}
+
+.date{
+    color: #8987A1;
+    font-size: 12px;
 }
 
 .extra{
